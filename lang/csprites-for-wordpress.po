@@ -1,0 +1,102 @@
+# cSprites for Wordpress, language translation file
+# This file is put in the public domain.
+# Adrian Mummey <amummey@gmail.com>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/csprites-for-wordpress\n"
+"POT-Creation-Date: 2009-03-05 10:49+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: includes/options.php:3 includes/options.php:6
+msgid "cSprites Options"
+msgstr ""
+
+#: includes/options.php:3 includes/options.php:6
+msgid "cSprites"
+msgstr ""
+
+#: includes/options.php:21 includes/options.php:99
+msgid "cSprites for Wordpress"
+msgstr ""
+
+#: includes/options.php:29
+msgid "JPG Quality"
+msgstr ""
+
+#: includes/options.php:30
+msgid "0 lowest - 100 highest (Default: 70)"
+msgstr ""
+
+#: includes/options.php:34
+msgid "PNG Compression"
+msgstr ""
+
+#: includes/options.php:35
+msgid "1 lowest - 9 highest (Default: 9)"
+msgstr ""
+
+#: includes/options.php:39
+msgid "Force no padding in image style"
+msgstr ""
+
+#: includes/options.php:41
+msgid "True"
+msgstr ""
+
+#: includes/options.php:42
+msgid "False"
+msgstr ""
+
+#: includes/options.php:44
+msgid ""
+"setting this to true will add a <em>padding:0 !important;</em> style to each "
+"image class; this will prevent padding from exposing other parts of the "
+"sprite. (Default: true)"
+msgstr ""
+
+#: includes/options.php:51
+msgid "Process JPG images"
+msgstr ""
+
+#: includes/options.php:57
+msgid "Process GIF images"
+msgstr ""
+
+#: includes/options.php:62
+msgid "Process PNG images"
+msgstr ""
+
+#: includes/options.php:64
+msgid ""
+"Due to the way PHP handles PNG files, the resulting sprite may be larger "
+"than the sum of the original file sizes"
+msgstr ""
+
+#: includes/options.php:71
+msgid "Cache Time in Minutes"
+msgstr ""
+
+#: includes/options.php:72
+msgid "set to 0 for no cache (Default: 20)"
+msgstr ""
+
+#: includes/options.php:76
+msgid "Clear cSprite Cache"
+msgstr ""
+
+#: includes/options.php:78
+msgid ""
+"Immediately deletes all the files in the cSprite cache. May help with images "
+"not displaying properly."
+msgstr ""
+
+#: includes/options.php:88
+msgid "Save Changes"
+msgstr ""
